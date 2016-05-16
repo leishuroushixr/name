@@ -19,7 +19,7 @@
 }
 -(void)bark
 {
-    NSLog(@"猫咪%@喵喵的叫",_name);
+//    NSLog(@"猫咪%@喵喵的叫",_name);
 }
 
 @end
